@@ -13,9 +13,10 @@ int main()
             case 'e':
             case 'i':
             case 'o':
+            case 'u':
             printf("Entered character is vowel ");
             break;
-            case 'u':
+
             printf("Entered character is vowel ");
             break;
             default:
