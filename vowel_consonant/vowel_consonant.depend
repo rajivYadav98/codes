@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590648302 source:c:\users\user\desktop\new folder\vowel_consonant\main.c
+	<stdio.h>
+
+1590648199 source:c:\users\user\desktop\new folder\vowel_consonant\vowel_consonant_switchcase.c
+	<stdio.h>
+
