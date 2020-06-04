@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591187679 source:c:\users\user\desktop\codes\check_even_or_odd\main.c
+	<stdio.h>
+	<stdlib.h>
+
