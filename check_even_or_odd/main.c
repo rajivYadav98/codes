@@ -4,6 +4,8 @@
 int main()
 {
 char a;
+char answer;
+do{
 printf("Enter any number to check\n");
 scanf("%c",&a);
 
@@ -24,4 +26,9 @@ else
     {
         printf("invalid input" );
     }
+    printf("\n press y to repeat & any key to exit" );
+    scanf("%c",&answer);
+}
+while(answer=='y'||answer=='Y');
+return 0;
 }
