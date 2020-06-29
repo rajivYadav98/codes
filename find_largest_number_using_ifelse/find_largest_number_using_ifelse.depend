@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593435452 source:c:\users\user\desktop\codes\find_largest_number_using_ifelse\main.c
+	<stdio.h>
+	<stdlib.h>
+
