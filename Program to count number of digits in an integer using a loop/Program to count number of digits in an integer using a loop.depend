@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597251938 source:c:\users\ryada\desktop\codes\program to count number of digits in an integer using a loop\main.c
+	<stdio.h>
+	<stdlib.h>
+
