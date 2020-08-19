@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597854665 source:c:\users\ryada\desktop\codes\find factorial of a given number\main.c
+	<stdio.h>
+	<stdlib.h>
+
